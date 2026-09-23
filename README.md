@@ -35,3 +35,12 @@ This repository serves as a comprehensive guide and practical implementation of 
 2. Ensure you have **Power BI Desktop** installed.
 3. Open the main `.pbix` file to explore the report structure, tooltips, and interactive features.
 4. *Note:* Exploring AI features and Power BI Service settings requires an active Power BI account (Pro/Premium) and internet connectivity.
+
+## 👨‍💻 Author
+
+**Bayzid Mostak**<br>
+*Data Analyst & Visualization Expert*
+
+*   [LinkedIn] https://www.linkedin.com/in/bayzid-mostak-data-analyst/
+*   [GitHub] https://github.com/TusharAlBayzid
+*   Note: Download the `.pbix` file and open it in Power BI Desktop to experience the fully interactive cross-filtering capabilities of this dashboard.
